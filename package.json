@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/hienle69/travel-tour.git",
+  "homepage": "https://hienle69.github.io/travel-tour/",
   "name": "travel-tour",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-
     "redeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
