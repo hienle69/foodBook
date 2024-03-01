@@ -19,8 +19,8 @@
     "start": "react-scripts start",
     "redeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "build": "react-scripts build --base-href https://hienle69.github.io/travel-tour/",
+    "test": "react-scripts test", 
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
