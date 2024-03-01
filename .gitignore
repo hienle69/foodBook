@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+=======
+<<<<<<< HEAD
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+>>>>>>> 593f97d (upload source code)
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+<<<<<<< HEAD
+=======
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -8,6 +33,7 @@
 # testing
 /coverage
 
+>>>>>>> 593f97d (upload source code)
 # production
 /build
 
@@ -21,3 +47,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
+>>>>>>> c152c62 (first commit)
+>>>>>>> 593f97d (upload source code)
